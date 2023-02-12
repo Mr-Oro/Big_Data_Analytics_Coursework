@@ -3,6 +3,9 @@
 This repository has my worked out solutions for the work assigned. This was a graduate level course taught at my institution.
 
 The solutions are done in python and are conducted in Juptyer notebooks
+I will also include the html file of the Juptyer notebook
+Datasets are used in some of the notebook but the datasets are too large to upload on github
+
 
 Work done throught this course consists of the following subjects/topics:
 
